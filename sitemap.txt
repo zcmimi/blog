@@ -1,0 +1,28 @@
+https://blog.zcmimi.top/posts/py-blog/
+https://blog.zcmimi.top/posts/archlinux-gnome-qt-gtk/
+https://blog.zcmimi.top/posts/archlinux-nginx+php+mariadb/
+https://blog.zcmimi.top/posts/archlinux配置gtx 1650/
+https://blog.zcmimi.top/posts/数学常数与欧拉公式/
+https://blog.zcmimi.top/posts/小站日志/
+https://blog.zcmimi.top/posts/cloudflare workers实现静态网站全站搜索/
+https://blog.zcmimi.top/posts/test/
+https://blog.zcmimi.top/readme/
+https://blog.zcmimi.top/math-tools/
+https://blog.zcmimi.top/about/
+https://blog.zcmimi.top/collection/
+https://blog.zcmimi.top/tools/
+https://blog.zcmimi.top/links/
+https://blog.zcmimi.top/
+https://blog.zcmimi.top/tags/py-blog/
+https://blog.zcmimi.top/tags/linux/
+https://blog.zcmimi.top/tags/技术/
+https://blog.zcmimi.top/tags/数论/
+https://blog.zcmimi.top/tags/前端/
+https://blog.zcmimi.top/tags/test/
+https://blog.zcmimi.top/categories/linux/
+https://blog.zcmimi.top/categories/note/
+https://blog.zcmimi.top/categories/公告/
+https://blog.zcmimi.top/categories/技术分享/
+https://blog.zcmimi.top/categories/
+https://blog.zcmimi.top/tags/
+https://blog.zcmimi.top/404.html
