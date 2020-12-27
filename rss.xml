@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>zcmimi's blog</title><link>https://blog.zcmimi.top/</link><description>zcmimi's blog</description><lastBuildDate>2020-12-20 11:40:33</lastBuildDate><generator uri="https://zcmimi.github.io/py-blog">py-blog</generator><item><title>py-blog</title><link>/posts/py-blog/</link><description>&lt;p&gt;施工中 test&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>zcmimi's blog</title><link>https://blog.zcmimi.top/</link><description>zcmimi's blog</description><lastBuildDate>2020-12-27 16:01:30</lastBuildDate><generator uri="https://zcmimi.github.io/py-blog">py-blog</generator><item><title>通过申请office E5订阅获取域名邮箱+5TB Onedrive</title><link>/posts/通过申请office E5订阅获取域名邮箱+5TB Onedrive/</link><description></description><pubDate>2020-12-26 23:31:36</pubDate><guid>https://blog.zcmimi.top/posts/通过申请office E5订阅获取域名邮箱+5TB Onedrive/</guid></item><item><title>退役后记</title><link>/posts/退役后记/</link><description>&lt;p&gt;自从2020的noip结束后，我就注定退役了&lt;/p&gt;
+&lt;p&gt;没想到退役来的这么快，但又似乎是一种解脱&lt;/p&gt;
+&lt;p&gt;退役前关于oi的博文已经转移到 &lt;a href=&#34;https://oi.zcmimi.top&#34;&gt;oi.zcmimi.top&lt;/a&gt; , 欢迎还未退役的大家前往&lt;/p&gt;
+&lt;h2&gt;预感退役&lt;/h2&gt;
+&lt;p&gt;noip前停课期间，&lt;/p&gt;
+&lt;h2&gt;正视退役&lt;/h2&gt;
+&lt;p&gt;#&lt;/p&gt;
+</description><pubDate>2020-12-26 23:29:33</pubDate><guid>https://blog.zcmimi.top/posts/退役后记/</guid></item><item><title>iptables使用</title><link>/posts/iptables使用/</link><description>&lt;p&gt;使用iptables实现端口转发流量&lt;/p&gt;
+&lt;h2&gt;推荐iptables-pf.sh&lt;/h2&gt;
+&lt;p&gt;```bash
+wget &lt;a href=&#34;https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/iptables-pf.sh&#34;&gt;https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/iptables-pf.sh&lt;/a&gt; -N --no-check-certifi&lt;/p&gt;
+</description><pubDate>2020-12-20 13:08:35</pubDate><guid>https://blog.zcmimi.top/posts/iptables使用/</guid></item><item><title>py-blog</title><link>/posts/py-blog/</link><description>&lt;p&gt;施工中 test&lt;/p&gt;
 </description><pubDate>2020-11-02 13:33:44</pubDate><guid>https://blog.zcmimi.top/posts/py-blog/</guid></item><item><title>archlinux在gnome桌面环境统一qt与gtk外观</title><link>/posts/archlinux-gnome-qt-gtk/</link><description>&lt;p&gt;默认你已经安装了qt5环境&lt;/p&gt;
 &lt;p&gt;安装&lt;code&gt;qt5ct&lt;/code&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;lang-bash&#34;&gt;sudo pacman -S qt5ct
@@ -31,8 +42,10 @@
 &lt;h3&gt;银行问题&lt;/h3&gt;
 &lt;p&gt;一笔钱存在在银行,假设这笔钱为$1$,&lt;/p&gt;
 &lt;p&gt;假设一&lt;/p&gt;
-</description><pubDate>2020-07-12 17:14:00</pubDate><guid>https://blog.zcmimi.top/posts/数学常数与欧拉公式/</guid></item><item><title>小站日志</title><link>/posts/小站日志/</link><description>&lt;p&gt;如果没记错的话,本博客建立于2018年8月?&lt;/p&gt;
-&lt;p&gt;当时应该是初三左右,&lt;/p&gt;
+</description><pubDate>2020-07-12 17:14:00</pubDate><guid>https://blog.zcmimi.top/posts/数学常数与欧拉公式/</guid></item><item><title>小站日志</title><link>/posts/小站日志/</link><description>&lt;h2&gt;2018.8&lt;/h2&gt;
+&lt;p&gt;建立本站&lt;/p&gt;
+&lt;h2&gt;2020.12.23&lt;/h2&gt;
+&lt;p&gt;退役前关于oi的博文已经转移到 &lt;a href=&#34;https://oi.zcmimi.top&#34;&gt;oi.zcmimi.top&lt;/a&gt; , 欢迎还未退役的大家前往&lt;/p&gt;
 </description><pubDate>2020-06-15 17:46:00</pubDate><guid>https://blog.zcmimi.top/posts/小站日志/</guid></item><item><title>cloudflare workers实现静态网站全站搜索</title><link>/posts/cloudflare workers实现静态网站全站搜索/</link><description>&lt;h2&gt;背景&lt;/h2&gt;
 &lt;p&gt;静态博客实现搜索一直是一件很困扰人的事&lt;/p&gt;
 &lt;p&gt;之前使用的方案:&lt;/p&gt;

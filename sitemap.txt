@@ -1,3 +1,6 @@
+https://blog.zcmimi.top/posts/通过申请office E5订阅获取域名邮箱+5TB Onedrive/
+https://blog.zcmimi.top/posts/退役后记/
+https://blog.zcmimi.top/posts/iptables使用/
 https://blog.zcmimi.top/posts/py-blog/
 https://blog.zcmimi.top/posts/archlinux-gnome-qt-gtk/
 https://blog.zcmimi.top/posts/archlinux-nginx+php+mariadb/
@@ -13,8 +16,10 @@ https://blog.zcmimi.top/collection/
 https://blog.zcmimi.top/tools/
 https://blog.zcmimi.top/links/
 https://blog.zcmimi.top/
-https://blog.zcmimi.top/tags/py-blog/
+https://blog.zcmimi.top/page/2/
 https://blog.zcmimi.top/tags/linux/
+https://blog.zcmimi.top/tags/iptables/
+https://blog.zcmimi.top/tags/py-blog/
 https://blog.zcmimi.top/tags/技术/
 https://blog.zcmimi.top/tags/数论/
 https://blog.zcmimi.top/tags/前端/
